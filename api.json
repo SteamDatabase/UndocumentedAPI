@@ -1,0 +1,105 @@
+{
+	"apilist":
+	{
+		"interfaces":
+		[
+			{
+				"name": "ISteamWebUserPresenceOAuth",
+				"methods":
+				[
+					{
+						"name": "Logon",
+						"version": 1
+					},
+					{
+						"name": "Logoff",
+						"version": 1
+					},
+					{
+						"name": "Message",
+						"version": 1
+					},
+					{
+						"name": "DeviceInfo",
+						"version": 1
+					},
+					{
+						"name": "Poll",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ISteamUserOAuth",
+				"methods":
+				[
+					{
+						"name": "GetUserSummaries",
+						"version": 1
+					},
+					{
+						"name": "GetGroupSummaries",
+						"version": 1
+					},
+					{
+						"name": "GetGroupList",
+						"version": 1
+					},
+					{
+						"name": "GetFriendList",
+						"version": 1
+					},
+					{
+						"name": "Search",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ISteamGameOAuth",
+				"methods":
+				[
+					{
+						"name": "GetAppInfo",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IMobileNotificationService",
+				"methods":
+				[
+					{
+						"name": "SwitchSessionToPush",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IFriendMessagesService",
+				"methods":
+				[
+					{
+						"name": "GetActiveMessageSessions",
+						"version": 1
+					},
+					{
+						"name": "GetRecentMessages",
+						"version": 1
+					},
+					{
+						"name": "MarkOfflineMessagesRead",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ITwoFactorService",
+				"methods":
+				[
+					
+				]
+			}
+		]
+	}
+}
