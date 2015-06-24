@@ -97,7 +97,38 @@
 				"name": "ITwoFactorService",
 				"methods":
 				[
-					
+					{
+						"name": "AddAuthenticator",
+						"version": 1
+					},
+					{
+						"name": "RecoverAuthenticatorCommit",
+						"version": 1
+					},
+					{
+						"name": "RecoverAuthenticatorContinue",
+						"version": 1
+					},
+					{
+						"name": "RemoveAuthenticator",
+						"version": 1
+					},
+					{
+						"name": "FinalizeAddAuthenticator",
+						"version": 1
+					},
+					{
+						"name": "QueryStatus",
+						"version": 1
+					},
+					{
+						"name": "QueryTime",
+						"version": 1
+					},
+					{
+						"name": "SendEmail",
+						"version": 1
+					}
 				]
 			}
 		]
