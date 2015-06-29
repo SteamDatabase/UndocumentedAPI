@@ -178,6 +178,20 @@
 						"version": 1
 					}
 				]
+			},
+			{
+				"name": "IBroadcastService",
+				"methods":
+				[
+					{
+						"name": "PostChatMessage",
+						"version": 1
+					},
+					{
+						"name": "MuteBroadcastChatUser",
+						"version": 1
+					}
+				]
 			}
 		]
 	}
