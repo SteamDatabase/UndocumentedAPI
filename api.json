@@ -114,6 +114,14 @@
 						"version": 1
 					},
 					{
+						"name": "RemoveAuthenticatorViaChallengeStart",
+						"version": 1
+					},
+					{
+						"name": "RemoveAuthenticatorViaChallengeContinue",
+						"version": 1
+					},
+					{
 						"name": "FinalizeAddAuthenticator",
 						"version": 1
 					},
@@ -126,7 +134,23 @@
 						"version": 1
 					},
 					{
+						"name": "QuerySecrets",
+						"version": 1
+					},
+					{
 						"name": "SendEmail",
+						"version": 1
+					},
+					{
+						"name": "ValidateToken",
+						"version": 1
+					},
+					{
+						"name": "CreateEmergencyCodes",
+						"version": 1
+					},
+					{
+						"name": "DestroyEmergencyCodes",
 						"version": 1
 					}
 				]
