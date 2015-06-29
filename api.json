@@ -222,6 +222,28 @@
 						"version": 1
 					}
 				]
+			},
+			{
+				"name": "IInventoryService",
+				"methods":
+				[
+					{
+						"name": "GetInventory",
+						"version": 1
+					},
+					{
+						"name": "ExchangeItem",
+						"version": 1
+					},
+					{
+						"name": "AddPromoItem",
+						"version": 1
+					},
+					{
+						"name": "GetItemDefs",
+						"version": 1
+					}
+				]
 			}
 		]
 	}
