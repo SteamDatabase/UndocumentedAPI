@@ -140,6 +140,44 @@
 						"version": 1
 					}
 				]
+			},
+			{
+				"name": "IPublishedFileService",
+				"methods":
+				[
+					{
+						"name": "Subscribe",
+						"version": 1
+					},
+					{
+						"name": "Unsubscribe",
+						"version": 1
+					},
+					{
+						"name": "CanSubscribe",
+						"version": 1
+					},
+					{
+						"name": "Publish",
+						"version": 1
+					},
+					{
+						"name": "GetDetails",
+						"version": 1
+					},
+					{
+						"name": "GetUserFiles",
+						"version": 1
+					},
+					{
+						"name": "Update",
+						"version": 1
+					},
+					{
+						"name": "RefreshVotingQueue",
+						"version": 1
+					}
+				]
 			}
 		]
 	}
