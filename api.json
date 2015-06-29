@@ -192,6 +192,36 @@
 						"version": 1
 					}
 				]
+			},
+			{
+				"name": "ICloudService",
+				"methods":
+				[
+					{
+						"name": "GetUploadServerInfo",
+						"version": 1
+					},
+					{
+						"name": "BeginHTTPUpload",
+						"version": 1
+					},
+					{
+						"name": "CommitHTTPUpload",
+						"version": 1
+					},
+					{
+						"name": "GetFileDetails",
+						"version": 1
+					},
+					{
+						"name": "EnumerateUserFiles",
+						"version": 1
+					},
+					{
+						"name": "Delete",
+						"version": 1
+					}
+				]
 			}
 		]
 	}
