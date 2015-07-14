@@ -200,6 +200,14 @@
 					{
 						"name": "RefreshVotingQueue",
 						"version": 1
+					},
+					{
+						"name": "SetDeveloperMetadata",
+						"version": 1
+					},
+					{
+						"name": "UpdateTags",
+						"version": 1
 					}
 				]
 			},
