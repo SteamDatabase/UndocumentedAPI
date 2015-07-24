@@ -222,6 +222,10 @@
 					{
 						"name": "MuteBroadcastChatUser",
 						"version": 1
+					},
+					{
+						"name": "RemoveUserChatText",
+						"version": 1
 					}
 				]
 			},
