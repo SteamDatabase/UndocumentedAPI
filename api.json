@@ -4,6 +4,16 @@
 		"interfaces":
 		[
 			{
+				"name": "IMobileAuthService",
+				"methods":
+				[
+					{
+						"name": "GetWGToken",
+						"version": 1
+					}
+				]
+			},
+			{
 				"name": "ISteamWebUserPresenceOAuth",
 				"methods":
 				[
