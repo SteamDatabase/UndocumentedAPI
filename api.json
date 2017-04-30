@@ -270,6 +270,16 @@
 				]
 			},
 			{
+				"name": "IGameInventory",
+				"methods":
+				[
+					{
+						"name": "GetItemDefArchive",
+						"version": 1
+					}
+				]
+			},
+			{
 				"name": "IInventoryService",
 				"methods":
 				[
