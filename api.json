@@ -270,6 +270,16 @@
 				]
 			},
 			{
+				"name": "IPlayerService",
+				"methods":
+				[
+					{
+						"name": "GetSteamLevelDistribution",
+						"version": 1
+					}
+				]
+			},
+			{
 				"name": "IGameInventory",
 				"methods":
 				[
