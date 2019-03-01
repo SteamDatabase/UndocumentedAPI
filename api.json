@@ -284,6 +284,22 @@
 					{
 						"name": "GetSteamLevelDistribution",
 						"version": 1
+					},
+					{
+						"name": "GetNicknameList",
+						"version": 1
+					},
+					{
+						"name": "AddFriend",
+						"version": 1
+					},
+					{
+						"name": "RemoveFriend",
+						"version": 1
+					},
+					{
+						"name": "IgnoreFriend",
+						"version": 1
 					}
 				]
 			},
@@ -319,6 +335,68 @@
 					},
 					{
 						"name": "GetItemDefMeta",
+						"version": 1
+					},
+					{
+						"name": "ConsumeItem",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ICommunityService",
+				"methods":
+				[
+					{
+						"name": "GetApps",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IAccountLinkingService",
+				"methods":
+				[
+					{
+						"name": "GetLinkedAccountInfo",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IRemoteClientService",
+				"methods":
+				[
+					{
+						"name": "NotifyRemotePacket",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ICredentialsService",
+				"methods":
+				[
+					{
+						"name": "ValidateEmailAddress",
+						"version": 1
+					},
+					{
+						"name": "SteamGuardPhishingReport",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IVideoService",
+				"methods":
+				[
+					{
+						"name": "SetVideoBookmark",
+						"version": 1
+					},
+					{
+						"name": "GetVideoBookmarks",
 						"version": 1
 					}
 				]
