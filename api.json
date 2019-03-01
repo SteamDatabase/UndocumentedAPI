@@ -236,6 +236,14 @@
 					{
 						"name": "RemoveUserChatText",
 						"version": 1
+					},
+					{
+						"name": "GetRTMPInfo",
+						"version": 1
+					},
+					{
+						"name": "SetRTMPInfo",
+						"version": 1
 					}
 				]
 			},
