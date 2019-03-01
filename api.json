@@ -314,6 +314,124 @@
 						"version": 1
 					}
 				]
+			},
+			{
+				"name": "ISteamTVService",
+				"methods":
+				[
+					{
+						"name": "CreateBroadcastChannel",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelID",
+						"version": 1
+					},
+					{
+						"name": "SetBroadcastChannelProfile",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelProfile",
+						"version": 1
+					},
+					{
+						"name": "SetBroadcastChannelImage",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelImages",
+						"version": 1
+					},
+					{
+						"name": "SetBroadcastChannelLinkRegions",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelLinks",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelBroadcasters",
+						"version": 1
+					},
+					{
+						"name": "GetFollowedChannels",
+						"version": 1
+					},
+					{
+						"name": "GetSubscribedChannels",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelStatus",
+						"version": 1
+					},
+					{
+						"name": "FollowBroadcastChannel",
+						"version": 1
+					},
+					{
+						"name": "SubscribeBroadcastChannel",
+						"version": 1
+					},
+					{
+						"name": "ReportBroadcastChannel",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelInteraction",
+						"version": 1
+					},
+					{
+						"name": "GetGames",
+						"version": 1
+					},
+					{
+						"name": "GetFeatured",
+						"version": 1
+					},
+					{
+						"name": "AddChatBan",
+						"version": 1
+					},
+					{
+						"name": "GetChatBans",
+						"version": 1
+					},
+					{
+						"name": "AddChatModerator",
+						"version": 1
+					},
+					{
+						"name": "GetChatModerators",
+						"version": 1
+					},
+					{
+						"name": "AddWordBan",
+						"version": 1
+					},
+					{
+						"name": "GetWordBans",
+						"version": 1
+					},
+					{
+						"name": "JoinChat",
+						"version": 1
+					},
+					{
+						"name": "Search",
+						"version": 1
+					},
+					{
+						"name": "GetSteamTVUserSettings",
+						"version": 1
+					},
+					{
+						"name": "SetSteamTVUserSettings",
+						"version": 1
+					}
+				]
 			}
 		]
 	}
