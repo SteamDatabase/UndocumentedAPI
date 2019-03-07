@@ -244,6 +244,18 @@
 					{
 						"name": "SetRTMPInfo",
 						"version": 1
+					},
+					{
+						"name": "UpdateChatMessageFlair",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastUploadStats",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastViewerStats",
+						"version": 1
 					}
 				]
 			},
