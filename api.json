@@ -382,6 +382,14 @@
 					{
 						"name": "NotifyRemotePacket",
 						"version": 1
+					},
+					{
+						"name": "NotifyRegisterStatusUpdate",
+						"version": 1
+					},
+					{
+						"name": "NotifyUnregisterStatusUpdate",
+						"version": 1
 					}
 				]
 			},
@@ -527,6 +535,10 @@
 					},
 					{
 						"name": "SetSteamTVUserSettings",
+						"version": 1
+					},
+					{
+						"name": "GetMyBroadcastChannels",
 						"version": 1
 					}
 				]
