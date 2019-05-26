@@ -256,6 +256,18 @@
 					{
 						"name": "GetBroadcastViewerStats",
 						"version": 1
+					},
+					{
+						"name": "StartBuildClip",
+						"version": 1
+					},
+					{
+						"name": "GetBuildClipStatus",
+						"version": 1
+					},
+					{
+						"name": "GetClipDetails",
+						"version": 1
 					}
 				]
 			},
@@ -361,6 +373,10 @@
 				[
 					{
 						"name": "GetApps",
+						"version": 1
+					},
+					{
+						"name": "GetUserPartnerEventNews",
 						"version": 1
 					}
 				]
@@ -539,6 +555,18 @@
 					},
 					{
 						"name": "GetMyBroadcastChannels",
+						"version": 1
+					},
+					{
+						"name": "GetBroadcastChannelClips",
+						"version": 1
+					},
+					{
+						"name": "GetChannels",
+						"version": 1
+					},
+					{
+						"name": "GetHomePageContents",
 						"version": 1
 					}
 				]
