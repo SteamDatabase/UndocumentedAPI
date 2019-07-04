@@ -72,6 +72,10 @@
 					{
 						"name": "GetAppInfo",
 						"version": 1
+					},
+					{
+						"name": "GetPackageInfo",
+						"version": 1
 					}
 				]
 			},
@@ -79,6 +83,10 @@
 				"name": "IMobileNotificationService",
 				"methods":
 				[
+					{
+						"name": "GetUserNotificationCounts",
+						"version": 1
+					},
 					{
 						"name": "SwitchSessionToPush",
 						"version": 1
@@ -567,6 +575,60 @@
 					},
 					{
 						"name": "GetHomePageContents",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IGameCoordinator",
+				"methods":
+				[
+					{
+						"name": "GetMessages",
+						"version": 1
+					},
+					{
+						"name": "PostMessages",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ISteamBitPay",
+				"methods":
+				[
+					{
+						"name": "BitPayPaymentNotification",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ISteamNodwin",
+				"methods":
+				[
+					{
+						"name": "NodwinPaymentNotification",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ISteamPayPalPaymentsHub",
+				"methods":
+				[
+					{
+						"name": "PayPalPaymentsHubPaymentNotification",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ISteamBoaCompra",
+				"methods":
+				[
+					{
+						"name": "BoaCompraCheckTransactionStatus",
 						"version": 1
 					}
 				]
