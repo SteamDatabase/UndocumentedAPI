@@ -386,6 +386,10 @@
 					{
 						"name": "GetUserPartnerEventNews",
 						"version": 1
+					},
+					{
+						"name": "GetBestEventsForUser",
+						"version": 1
 					}
 				]
 			},
@@ -629,6 +633,16 @@
 				[
 					{
 						"name": "BoaCompraCheckTransactionStatus",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IQuestService",
+				"methods":
+				[
+					{
+						"name": "GetCommunityItemDefinitions",
 						"version": 1
 					}
 				]
