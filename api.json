@@ -332,6 +332,46 @@
 					{
 						"name": "IgnoreFriend",
 						"version": 1
+					},
+					{
+						"name": "GetProfileBackground",
+						"version": 1
+					},
+					{
+						"name": "SetProfileBackground",
+						"version": 1
+					},
+					{
+						"name": "GetMiniProfileBackground",
+						"version": 1
+					},
+					{
+						"name": "SetMiniProfileBackground",
+						"version": 1
+					},
+					{
+						"name": "GetAvatarFrame",
+						"version": 1
+					},
+					{
+						"name": "SetAvatarFrame",
+						"version": 1
+					},
+					{
+						"name": "GetAnimatedAvatar",
+						"version": 1
+					},
+					{
+						"name": "SetAnimatedAvatar",
+						"version": 1
+					},
+					{
+						"name": "GetProfileItemsOwned",
+						"version": 1
+					},
+					{
+						"name": "GetProfileItemsEquipped",
+						"version": 1
 					}
 				]
 			},
