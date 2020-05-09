@@ -686,7 +686,17 @@
 						"version": 1
 					}
 				]
-			}
+			},
+			{
+				"name": "ITrustService",
+				"methods":
+				[
+					{
+						"name": "FullAccountUpdate",
+						"version": 1
+					}
+				]
+			},
 		]
 	}
 }
