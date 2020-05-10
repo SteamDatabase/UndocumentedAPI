@@ -697,6 +697,28 @@
 					}
 				]
 			},
+			{
+				"name": "ISteamMicroTxn",
+				"methods":
+				[
+					{
+						"name": "AddToCart",
+						"version": 1
+					},
+					{
+						"name": "CreateCart",
+						"version": 1
+					},
+					{
+						"name": "GetCartContents",
+						"version": 1
+					},
+					{
+						"name": "IsValidCart",
+						"version": 1
+					}
+				]
+			},
 		]
 	}
 }
