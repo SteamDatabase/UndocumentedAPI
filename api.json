@@ -430,6 +430,10 @@
 					{
 						"name": "GetBestEventsForUser",
 						"version": 1
+					},
+					{
+						"name": "GetClanAnnouncements",
+						"version": 1
 					}
 				]
 			},
