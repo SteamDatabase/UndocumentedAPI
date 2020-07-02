@@ -752,6 +752,10 @@
 					{
 						"name": "GetWorkshopVoteQueue",
 						"version": 1
+					},
+					{
+						"name": "GetWhitelist",
+						"version": 1
 					}
 				]
 			},
@@ -791,6 +795,14 @@
 					},
 					{
 						"name": "GetTriviaQuestionAnswersSummary",
+						"version": 1
+					},
+					{
+						"name": "GetDraftTriviaMatchInfo",
+						"version": 1
+					},
+					{
+						"name": "GetDraftTriviaVoteCount",
 						"version": 1
 					}
 				]
@@ -896,6 +908,14 @@
 					{
 						"name": "GetPlusStatsData",
 						"version": 1
+					},
+					{
+						"name": "GetPlusHeroTimedStats",
+						"version": 1
+					},
+					{
+						"name": "GetPlusHeroAllyAndEnemyData",
+						"version": 1
 					}
 				]
 			},
@@ -914,7 +934,43 @@
 				"methods":
 				[
 					{
+						"name": "GetFanContentStatus",
+						"version": 1
+					},
+					{
 						"name": "GetSingleTeamInfo",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IDOTA2Guild_570",
+				"methods":
+				[
+					{
+						"name": "FindGuildByTag",
+						"version": 1
+					},
+					{
+						"name": "GetGuildPersonaInfo",
+						"version": 1
+					},
+					{
+						"name": "GetGuildSummary",
+						"version": 1
+					},
+					{
+						"name": "SearchForOpenGuilds",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IDOTA2StreamSystem_570",
+				"methods":
+				[
+					{
+						"name": "GetBroadcasterInfo",
 						"version": 1
 					}
 				]
