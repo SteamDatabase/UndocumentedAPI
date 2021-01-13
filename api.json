@@ -728,6 +728,20 @@
 				]
 			},
 			{
+				"name": "ISiteLicenseService",
+				"methods":
+				[
+					{
+						"name": "GetCurrentClientConnections",
+						"version": 1
+					},
+					{
+						"name": "GetTotalPlaytime",
+						"version": 1
+					}
+				]
+			},
+			{
 				"name": "IDOTAChat_570",
 				"methods":
 				[
