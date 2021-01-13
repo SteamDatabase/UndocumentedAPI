@@ -40,6 +40,16 @@
 				]
 			},
 			{
+				"name": "ISteamUser",
+				"methods":
+				[
+					{
+						"name": "GetDeletedSteamIDs",
+						"version": 1
+					}
+				]
+			},
+			{
 				"name": "ISteamUserOAuth",
 				"methods":
 				[
