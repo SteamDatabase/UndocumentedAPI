@@ -862,6 +862,10 @@
 						"version": 1
 					},
 					{
+						"name": "GetLeaguesData",
+						"version": 1
+					},
+					{
 						"name": "GetLeagueInfoList",
 						"version": 1
 					},
@@ -967,6 +971,10 @@
 					},
 					{
 						"name": "GetSingleTeamInfo",
+						"version": 1
+					},
+					{
+						"name": "GetTeamInfos",
 						"version": 1
 					}
 				]
