@@ -848,6 +848,10 @@
 						"version": 1
 					},
 					{
+						"name": "GetPlayerInfos",
+						"version": 1
+					},
+					{
 						"name": "GetProPlayerInfo",
 						"version": 1
 					}
