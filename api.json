@@ -476,6 +476,26 @@
 					{
 						"name": "NotifyUnregisterStatusUpdate",
 						"version": 1
+					},
+					{
+						"name": "CreateSession",
+						"version": 1
+					},
+					{
+						"name": "StartPairing",
+						"version": 1
+					},
+					{
+						"name": "SetPairingInfo",
+						"version": 1
+					},
+					{
+						"name": "CancelPairing",
+						"version": 1
+					},
+					{
+						"name": "GetReplies",
+						"version": 1
 					}
 				]
 			},
