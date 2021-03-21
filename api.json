@@ -1034,6 +1034,26 @@
 						"version": 1
 					}
 				]
+			},
+			{
+				"name": "IClanService",
+				"methods": 
+				[
+					{
+						"name": "GetAdjacentPartnerEvents",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IEmbeddedClientService",
+				"methods": 
+				[
+					{
+						"name": "AuthorizeDevice",
+						"version": 1
+					}
+				]
 			}
 		]
 	}
