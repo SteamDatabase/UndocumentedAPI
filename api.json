@@ -396,6 +396,14 @@
 					{
 						"name": "UpdateItemDefs",
 						"version": 1
+					},
+					{
+						"name": "GetAssetClassInfo",
+						"version": 1
+					},
+					{
+						"name": "GetAssetPrices",
+						"version": 1
 					}
 				]
 			},
@@ -912,6 +920,10 @@
 					{
 						"name": "GetPrizePool",
 						"version": 1
+					},
+					{
+						"name": "GetMessages",
+						"version": 1
 					}
 				]
 			},
@@ -1000,6 +1012,10 @@
 					{
 						"name": "GetTeamInfos",
 						"version": 1
+					},
+					{
+						"name": "GetPlayerInfo",
+						"version": 1
 					}
 				]
 			},
@@ -1051,6 +1067,46 @@
 				[
 					{
 						"name": "AuthorizeDevice",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ICSGOTournaments_730",
+				"methods":
+				[
+					{
+						"name": "ClaimBadgeReward",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IDOTA2Fantasy_205790",
+				"methods":
+				[
+					{
+						"name": "GetFantasyPlayerRawStats",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IDOTA2Match_205790",
+				"methods":
+				[
+					{
+						"name": "GetMatchMVPVotes",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "IStoreService",
+				"methods":
+				[
+					{
+						"name": "GetAppInfo",
 						"version": 1
 					}
 				]
