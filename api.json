@@ -994,6 +994,10 @@
 					{
 						"name": "GetBroadcasterInfo",
 						"version": 1
+					},
+					{
+						"name": "ListOfUsersSpectating",
+						"version": 1
 					}
 				]
 			},
@@ -1042,16 +1046,6 @@
 				]
 			},
 			{
-				"name": "IDOTA2StreamSystem_570",
-				"methods":
-				[
-					{
-						"name": "GetBroadcasterInfo",
-						"version": 1
-					}
-				]
-			},
-			{
 				"name": "IClanService",
 				"methods": 
 				[
@@ -1067,6 +1061,30 @@
 				[
 					{
 						"name": "AuthorizeDevice",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ICSGOPlayers_730",
+				"methods":
+				[
+					{
+						"name": "GetPlayerProfile",
+						"version": 1
+					}
+				]
+			},
+			{
+				"name": "ICSGOStreamSystem_730",
+				"methods":
+				[
+					{
+						"name": "GetMatchScoreboard",
+						"version": 1
+					},
+					{
+						"name": "ListOfUsersSpectating",
 						"version": 1
 					}
 				]
