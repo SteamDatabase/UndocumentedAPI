@@ -58,10 +58,6 @@
 						"version": 1
 					},
 					{
-						"name": "GetGroupSummaries",
-						"version": 1
-					},
-					{
 						"name": "GetGroupList",
 						"version": 1
 					},
@@ -897,10 +893,6 @@
 				"name": "IDOTA2Match_570",
 				"methods":
 				[
-					{
-						"name": "GetMatchMVPVotes",
-						"version": 1
-					},
 					{
 						"name": "GetTopLiveEventGame",
 						"version": 1
