@@ -130,23 +130,7 @@
 						"version": 1
 					},
 					{
-						"name": "RecoverAuthenticatorCommit",
-						"version": 1
-					},
-					{
-						"name": "RecoverAuthenticatorContinue",
-						"version": 1
-					},
-					{
 						"name": "RemoveAuthenticator",
-						"version": 1
-					},
-					{
-						"name": "RemoveAuthenticatorViaChallengeStart",
-						"version": 1
-					},
-					{
-						"name": "RemoveAuthenticatorViaChallengeContinue",
 						"version": 1
 					},
 					{
@@ -159,10 +143,6 @@
 					},
 					{
 						"name": "QueryTime",
-						"version": 1
-					},
-					{
-						"name": "QuerySecrets",
 						"version": 1
 					},
 					{
@@ -608,10 +588,6 @@
 						"version": 1
 					},
 					{
-						"name": "GetFeatured",
-						"version": 1
-					},
-					{
 						"name": "AddChatBan",
 						"version": 1
 					},
@@ -729,16 +705,6 @@
 				[
 					{
 						"name": "GetCommunityItemDefinitions",
-						"version": 1
-					}
-				]
-			},
-			{
-				"name": "ITrustService",
-				"methods":
-				[
-					{
-						"name": "FullAccountUpdate",
 						"version": 1
 					}
 				]
