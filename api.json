@@ -72,20 +72,6 @@
 				]
 			},
 			{
-				"name": "ISteamGameOAuth",
-				"methods":
-				[
-					{
-						"name": "GetAppInfo",
-						"version": 1
-					},
-					{
-						"name": "GetPackageInfo",
-						"version": 1
-					}
-				]
-			},
-			{
 				"name": "IMobileNotificationService",
 				"methods":
 				[
