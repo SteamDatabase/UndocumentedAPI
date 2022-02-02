@@ -366,6 +366,10 @@
 					{
 						"name": "GetAssetPrices",
 						"version": 1
+					},
+					{
+						"name": "GetContexts",
+						"version": 1
 					}
 				]
 			},
