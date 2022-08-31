@@ -58,6 +58,10 @@
 						"version": 1
 					},
 					{
+						"name": "GetUserSummaries",
+						"version": 2
+					},
+					{
 						"name": "GetGroupList",
 						"version": 1
 					},
