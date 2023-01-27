@@ -1000,6 +1000,10 @@
 					{
 						"name": "GetAdjacentPartnerEvents",
 						"version": 1
+					},
+					{
+						"name": "GetSinglePartnerEvent",
+						"version": 1
 					}
 				]
 			},
